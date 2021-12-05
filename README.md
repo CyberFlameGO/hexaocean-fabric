@@ -1,3 +1,3 @@
 # 🌊 Hexaocean
 
-A client-side Fabric mod for Minecraft to improve your overall experience.
+A client-side mod for Minecraft: Java Edition to improve your overall game experience, such as combat-specific and QoL.
